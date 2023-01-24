@@ -1,0 +1,9 @@
+{
+    "input_folder" : "00-input",
+    "processing_folder" : "",
+    "output_folder" : "01-output",
+    "minimum_time_between_two_songs" : "0",
+    "maximum_time_between_two_songs" : "6",
+    "spotify_client_id" : "5zluuuozt47bv1xymfh0nuucydxadi6r",
+    "spotify_client_secret" : "5zluuuozt47bv1xymfh0nuucydxadi6r"
+}
